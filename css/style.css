@@ -1,3 +1,10 @@
+@font-face {
+    font-family: "Gotham Pro Black";
+    src: url("C:/Users/Tomáš/Desktop/GothamPro-Black.ttf");
+}
+
+@import url('http://fonts.cdnfonts.com/css/gotham');
+
 *{
     font-family: 'Century Gothic', CenturyGothic;
     margin:0; 
@@ -113,13 +120,8 @@ section{
     margin-left: 2rem;
 }
 
-.header .icons div:hover{
-    color:var(--main-color);
-}
-
-
 .h1_thomas{
-    font-family: 'Gotham Pro Black', sans-serif;
+    font-family: 'Gotham Black', sans-serif;
     color: #013b5a;
     margin-top: 0%;
     font-size: 93px;
