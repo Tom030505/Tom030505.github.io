@@ -688,6 +688,11 @@ section{
     .my_work .artstation{
         margin-top: 0rem;
     }
+
+    .logos div img{
+        height: auto;
+        width: 20rem;
+    }
 }
 
 @media (max-width:450px){
