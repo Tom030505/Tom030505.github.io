@@ -571,7 +571,7 @@ section{
     .titles h2{
         font-size: 34px;
     }
-
+    
     .header:not(.active){
         background: rgb(255, 255, 255);
         width: 100%;
