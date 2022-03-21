@@ -1,6 +1,12 @@
+@import url(//db.onlinewebfonts.com/c/0be7748549934c0e481bdb7b8ba5270f?family=Gotham+Pro+Black);
+
 @font-face {
-    font-family: "Gotham Pro Black";
-    src: url("C:/Users/Tomáš/Desktop/GothamPro-Black.ttf");
+    font-family: "Gotham Pro Black"; src: url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.eot");
+    src: url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.eot?#iefix") format("embedded-opentype"),
+         url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.woff2") format("woff2"),
+         url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.woff") format("woff"),
+         url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.ttf") format("truetype"),
+         url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.svg#Gotham Pro Black") format("svg");
 }
 
 @import url('http://fonts.cdnfonts.com/css/gotham');
@@ -121,7 +127,7 @@ section{
 }
 
 .h1_thomas{
-    font-family: 'Gotham Black', sans-serif;
+    font-family: 'Gotham Pro Black', sans-serif;
     color: #013b5a;
     margin-top: 0%;
     font-size: 93px;
