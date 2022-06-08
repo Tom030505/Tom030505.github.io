@@ -553,7 +553,7 @@ section{
     }
 }
 
-@media (max-width:768px){
+@media (max-width:820px){
     .header a img{
         display: none;
     }
