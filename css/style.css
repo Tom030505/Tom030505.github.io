@@ -1,25 +1,3 @@
-@import url(//db.onlinewebfonts.com/c/0be7748549934c0e481bdb7b8ba5270f?family=Gotham+Pro+Black);
-
-@font-face {
-    font-family: "Gotham Pro Black"; src: url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.eot");
-    src: url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.eot?#iefix") format("embedded-opentype"),
-         url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.woff2") format("woff2"),
-         url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.woff") format("woff"),
-         url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.ttf") format("truetype"),
-         url("//db.onlinewebfonts.com/t/0be7748549934c0e481bdb7b8ba5270f.svg#Gotham Pro Black") format("svg");
-}
-
-@font-face {
-    font-family: "Century Gothic"; src: url("//fonts/century-gothic.eot");
-    src: url("//fonts/century-gothic.eot?#iefix") format("embedded-opentype"),
-    url("//fonts/century-gothic.woff2") format("woff2"),
-    url("//fonts/century-gothic.woff") format("woff"),
-    url("//fonts/century-gothic.ttf") format("truetype"),
-    url("//fonts/century-gothic.svg#Century Gothic") format("svg");
-}
-
-@import url('http://fonts.cdnfonts.com/css/gotham');
-
 *{
     font-family: 'Century Gothic', CenturyGothic;
     margin:0; 
