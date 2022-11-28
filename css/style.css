@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
 *{
     font-family: 'Century Gothic', CenturyGothic;
     margin:0; 
@@ -114,11 +115,10 @@ section{
 }
 
 .h1_thomas{
-    font-family: 'Gotham Pro Black', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #013b5a;
     margin-top: 0%;
     font-size: 93px;
-    font-weight: 500;
     line-height: 78.163px;
     margin: 0 auto;
     text-align: center;
@@ -692,4 +692,13 @@ section{
         font-size: 50%;
     }
 
+}
+
+.hiden{
+    opacity: 0;
+    transition: all 1s;
+}
+
+.show{
+    opacity: 1;
 }
